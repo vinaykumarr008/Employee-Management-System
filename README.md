@@ -19,24 +19,6 @@ A simple console-based Employee Management System built using **Java**, **Hibern
 
 ---
 
-## 📁 Project Structure
-
-EmployeeManagementSystem/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ └── com/company/
-│ │ │ ├── entity/
-│ │ │ │ └── Employee.java
-│ │ │ └── main/
-│ │ │ └── EmployeeManagementApp.java
-│ └── resources/
-│ └── hibernate.cfg.xml
-├── pom.xml
-└── README.md
-
----
-
 ## 🗃️ Database Setup
 
 Run the following SQL commands in MySQL:
